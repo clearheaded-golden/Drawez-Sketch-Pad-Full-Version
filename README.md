@@ -248,3 +248,6 @@ This repository serves as the official landing page for Drawez! Sketch Pad. The 
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://drawez.com)
 
 **Get the most recent version of Drawez! Sketch Pad today!**
+
+---
+**Last updated:** 2026-09-07 23:53:08 UTC
